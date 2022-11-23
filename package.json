@@ -1,0 +1,31 @@
+{
+  "name": "temp-express-server",
+  "version": "1.0.0",
+  "description": "Temp Express Experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brianmanden/temp-express-server.git"
+  },
+  "keywords": [
+    "Brian",
+    "Daniel",
+    "express",
+    "demo"
+  ],
+  "author": "Brian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brianmanden/temp-express-server/issues"
+  },
+  "homepage": "https://github.com/Brianmanden/temp-express-server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "chalk": "^5.1.2"
+  }
+}
