@@ -1,0 +1,54 @@
+{
+  "items": {
+    "1": {
+      "type": "file",
+      "path": "index.js",
+      "position": [
+        1950,
+        2230
+      ],
+      "dimensions": [
+        500,
+        360
+      ],
+      "block": {
+        "type": "file",
+        "id": "code-block",
+        "title": "Code block",
+        "description": "A basic code block",
+        "owner": "githubnext",
+        "repo": "blocks-examples",
+        "sandbox": false,
+        "entry": "/src/blocks/file-blocks/code/index.tsx"
+      },
+      "id": 1
+    },
+    "2": {
+      "type": "file",
+      "path": "README.md",
+      "position": [
+        2470,
+        2230
+      ],
+      "dimensions": [
+        500,
+        360
+      ],
+      "block": {
+        "type": "file",
+        "id": "code-block",
+        "title": "Code",
+        "description": "Read & edit code",
+        "entry": "blocks/file-blocks/code/index.tsx",
+        "matches": [
+          "*"
+        ],
+        "example_path": "https://github.com/githubnext/blocks-tutorial/blob/main/Aside.jsx",
+        "owner": "githubnext",
+        "repo": "blocks-examples",
+        "key": "githubnext__blocks-examples__code-block"
+      },
+      "id": 2
+    }
+  }
+}
